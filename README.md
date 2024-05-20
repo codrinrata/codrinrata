@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on my HackUPC project
-- 🌱 I’m currently learning how to behave:))
-- 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with life:))
-- 💬 Ask me about My tattoos
-- 📫 How to reach me: Serach for me around the globe:))
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I really love unicycling
+I'm planning on releasing a personal website, but it is still in progress
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/codrinrata/count.svg" />
+</p>
+
+# Get in touch :coffee:
+
+- [Personal Blog](still under construction)
+- [LinkedIn](https://www.linkedin.com/in/codrin32)
